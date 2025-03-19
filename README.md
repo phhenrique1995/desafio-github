@@ -61,3 +61,6 @@ Este é um repositório de exemplo para aprendizado do GitHub.
 
 Agora que você sabe como criar e colaborar em repositórios no GitHub, explore mais recursos e participe da comunidade open-source. Bons commits!
 
+# Observação
+
+Isso é um readme básico com a introdução sobre o conhecimento adquirido no curso de Introdução de Git e Git Hub pela DIO, junto a Especialista Aline Antunes.
